@@ -1,0 +1,7 @@
+[user]
+	name = Miroslav Beka
+	email = miroslavbeka@eftsource.com
+[core]
+	editor = vim
+[pull]
+	default = current
