@@ -5,3 +5,5 @@
 	editor = vim
 [pull]
 	default = current
+[push]
+	default = current
